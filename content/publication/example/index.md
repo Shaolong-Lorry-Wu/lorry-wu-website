@@ -20,7 +20,7 @@ abstract: In the labor market of the United States, a wide range of
   new full-time job over time. This paper limits itself to predictive and
   forensic analysis and leaves the question of job search motivations to authors
   of related areas.
-draft: true
+draft: false
 slides: ""
 url_pdf: ""
 summary: ""
@@ -35,7 +35,7 @@ publication: Scholarly Commons, University of Pennsylvania
 publication_short: ""
 url_source: ""
 url_video: ""
-featured: true
+featured: false
 date: 2021-12-30T02:52:37.909Z
 url_slides: ""
 title: Econometric Analysis of Labor Income and Job Seeking Disparities in the
