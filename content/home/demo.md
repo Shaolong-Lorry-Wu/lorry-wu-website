@@ -12,8 +12,8 @@ active: false
 design:
   columns: ""
   background:
-    gradient_start: rgba(0, 100, 0, 0)
-    gradient_end: rgba(34, 139, 34, 0)
+    gradient_start: rgba(15, 24, 199, 0)
+    gradient_end: rgba(6, 15, 210, 0)
     text_color_light: false
   spacing:
     padding:
