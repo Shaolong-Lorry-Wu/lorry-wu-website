@@ -36,7 +36,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 featured: false
-date: 2021-12-30T02:52:37.909Z
+date: 2021-12-30T02:55:51.661Z
 url_slides: ""
 title: Econometric Analysis of Labor Income and Job Seeking Disparities in the
   United States
