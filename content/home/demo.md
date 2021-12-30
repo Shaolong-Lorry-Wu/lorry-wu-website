@@ -10,7 +10,7 @@ title: ""
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: ""
   background:
     gradient_start: rgba(0, 100, 0, 0)
     gradient_end: rgba(34, 139, 34, 0)
