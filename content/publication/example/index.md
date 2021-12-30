@@ -1,14 +1,8 @@
 ---
-title: Econometric Analysis of Labor Income and Job Seeking Disparities in the
-  United States
+publication_types:
+  - "1"
 authors:
   - Shaolong Wu
-author_notes:
-  - Demographics
-  - Wage
-  - Econometrics
-  - Inference
-publication_short: ""
 abstract: In the labor market of the United States, a wide range of
   socioeconomic and demographic factors impact workers’ income and decisions to
   seek new jobs, which are two critical metrics of labor income dynamics.
@@ -26,27 +20,34 @@ abstract: In the labor market of the United States, a wide range of
   new full-time job over time. This paper limits itself to predictive and
   forensic analysis and leaves the question of job search motivations to authors
   of related areas.
-tags: []
-projects: []
+draft: true
 slides: ""
 url_pdf: ""
-publication_types:
-  - "1"
+summary: ""
+url_dataset: ""
+url_project: ""
+author_notes:
+  - Demographics
+  - Wage
+  - Econometrics
+  - Inference
+publication: Scholarly Commons, University of Pennsylvania
+publication_short: ""
+url_source: ""
+url_video: ""
+featured: true
+date: 2021-12-30T02:52:37.909Z
+url_slides: ""
+title: Econometric Analysis of Labor Income and Job Seeking Disparities in the
+  United States
+doi: ""
+tags: []
+projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-summary: ""
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
-publication: Scholarly Commons, University of Pennsylvania
-featured: true
-date: 2013-07-01T00:00:00Z
-url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: ""
 ---
