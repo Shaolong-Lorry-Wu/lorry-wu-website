@@ -1,6 +1,6 @@
 ---
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Shaolong Wu
 abstract: In the labor market of the United States, a wide range of
