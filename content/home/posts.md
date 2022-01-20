@@ -21,6 +21,6 @@ content:
 design:
   view: 2
 ---
-STAT481/581: Convex Optimization for Data Science TA (Spring 2022, University of Pennsylvania)
+Teaching Assistant for STAT481/581: Convex Optimization for Data Science (Spring 2022, University of Pennsylvania)
 
 Director of Raven Project (2018-2020, nonprofit in Nanjing, Jiangsu)
