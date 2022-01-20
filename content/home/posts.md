@@ -3,7 +3,7 @@ widget: pages
 widget_id: "3"
 headless: true
 weight: 60
-title: "STAT481/581: Convex Optimization for Data Science TA"
+title: Teaching Experience
 subtitle: null
 content:
   page_type: post
@@ -21,3 +21,4 @@ content:
 design:
   view: 2
 ---
+STAT481/581: Convex Optimization for Data Science TA
