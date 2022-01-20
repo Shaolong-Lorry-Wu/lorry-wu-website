@@ -40,7 +40,7 @@ date: 2021-12-30T02:55:51.661Z
 url_slides: ""
 title: Econometric Analysis of Labor Income and Job Seeking Disparities in the
   United States
-doi: https://repository.upenn.edu/spur/37/
+doi: ""
 tags: []
 projects: []
 image:
@@ -52,3 +52,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+https://repository.upenn.edu/spur/37/
